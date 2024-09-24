@@ -33,6 +33,7 @@ oss.
 | checkout    | checka ut      | henka         |
 | log	      | logga          | härförleden   |
 | revert      | reverta        | sluuda        |
+| squash      | squasha        | möga          |
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
